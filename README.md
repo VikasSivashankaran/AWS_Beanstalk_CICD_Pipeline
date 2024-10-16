@@ -7,6 +7,10 @@ For CICD pipeline development , use AWS Code Pipeline for CodeBuild and CodeDepl
 In Procfile , Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX. It's a pre-fork worker model ported from Ruby's Unicorn project. The Gunicorn server is broadly compatible with various web frameworks, simply implemented, light on server resource usage, and fairly speedy.
 
 adding necessary Libraries in requirements.txt
+
+
+
+
 CICD
 ![CI/CD Pipeline](https://raw.githubusercontent.com/VikasSivashankaran/AWS_Beanstalk_CICD_Pipeline/main/cicdaws.jpg)
 
