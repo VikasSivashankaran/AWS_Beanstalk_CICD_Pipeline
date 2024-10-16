@@ -15,4 +15,8 @@ CICD
 ![CI/CD Pipeline](https://raw.githubusercontent.com/VikasSivashankaran/AWS_Beanstalk_CICD_Pipeline/main/cicdaws.jpg)
 
 Lambda Trigger while uploading csv in s3 ,seen through CloudWatch--------
-![CI/CD Pipeline](https://raw.githubusercontent.com/VikasSivashankaran/AWS_Beanstalk_CICD_Pipeline/main/Lmbda.jpg)
+![CI/CD Pipeline](https://raw.githubusercontent.com/VikasSivashankaran/AWS_Beanstalk_CICD_Pipeline/main/Lambda.jpg)
+
+Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 and other federated data sources using standard SQL.
+
+![CI/CD Pipeline](https://raw.githubusercontent.com/VikasSivashankaran/AWS_Beanstalk_CICD_Pipeline/main/Athena.jpg)
