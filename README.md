@@ -8,4 +8,4 @@ In Procfile , Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX. It
 
 adding necessary Libraries in requirements.txt
 
-github.com/VikasSivashankaran/AWS_Beanstalk_CICD_Pipeline/blob/main/cicdaws.jpg
+![CI/CD Pipeline](https://raw.githubusercontent.com/VikasSivashankaran/AWS_Beanstalk_CICD_Pipeline/main/cicdaws.jpg)
